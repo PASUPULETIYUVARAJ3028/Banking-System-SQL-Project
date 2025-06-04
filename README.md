@@ -7,6 +7,8 @@
 This project showcases my SQL skills by developing a simplified core banking system banking system using SQL. It includes key tables such as Customers, Accounts, and Transactions.
 In this project, I also created various database objects like views, stored procedures, and triggers, and performed data analysis to gain insights from the data.
 
+![Bank](https://github.com/PASUPULETIYUVARAJ3028/Banking-System-SQL-Project/blob/main/bank-01-Converted-01-1024x428.png)
+
 ## Objective
 This project demonstrates the implementation of a banking system using SQL. It includes the creation and management of tables, as well as the execution of CRUD operations.
 The project simulates the back-end database logic of a real-world banking system, focusing on SQL querying, stored procedures, triggers, and view.
