@@ -9,6 +9,7 @@ This project demonstrates the implementation of a banking system using SQL. It i
 The project simulates the back-end database logic of a real-world banking system, focusing on data modeling, SQL querying, stored procedures, triggers, and ACID-compliant transactions.
 The goal is to design and implement a relational database for a simplified core banking system."
 
+### Step 1: Create DataBase & Tables
 ## Project Structure
 ### 1. Database Setup
 ![ERD](https://github.com/PASUPULETIYUVARAJ3028/Banking-System-SQL-Project/blob/main/ER_diagram.png)
@@ -60,3 +61,12 @@ CREATE TABLE Transactions (
         ON UPDATE CASCADE
 );
 ```
+
+
+### Step 2:  CRUD Operations
+
+- **Create**: Inserted sample records into the tables.
+- **Read**: Retrieved and displayed data from various tables.
+- **Update**: Updated records in the customer table.
+- **Delete**: Removed records from the cusomter table as needed.
+
