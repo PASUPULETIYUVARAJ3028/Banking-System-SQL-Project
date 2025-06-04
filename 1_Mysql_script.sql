@@ -74,7 +74,7 @@ SELECT * FROM customers WHERE customer_id = 1;
 -- Saving modification in DB.
 COMMIT;
 
--- Task 3:
+-- Task 4:
 -- Deleting customer in customers table.
 DELETE FROM customers WHERE customer_id = 2;
 -- ==============================================================================================================
