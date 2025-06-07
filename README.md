@@ -1,4 +1,4 @@
-# Banking System using SQL Project 
+# Banking System Project using SQL
 
 ## Project Overview
 
